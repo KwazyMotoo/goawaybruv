@@ -1,12 +1,10 @@
-{
-  "movies": [
-    {
-      "title": "Movie Title 1",
-      "cover": "https://move.starttiw.org/covers/ponytest/pony.png"
-    },
-    {
-      "title": "Movie Title 2",
-      "cover": "https://move.starttiw.org/covers/movie2.jpg"
-    }
-  ]
-}
+[
+  {
+    "title": "Movie Title 1",
+    "cover": "https://move.starttiw.org/covers/ponytest/pony.png"
+  },
+  {
+    "title": "Movie Title 2",
+    "cover": "https://move.starttiw.org/covers/movie2.jpg"
+  }
+]
