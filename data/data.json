@@ -2,7 +2,7 @@
   {
     "name": "ponytest",
     "title": "ponytest",
-    "video": "mylilpony/200.mp4"
+    "video": "./videos/pony/200.mp4"
   },
   {
     "name": "batman",
