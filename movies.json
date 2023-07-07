@@ -1,22 +1,12 @@
-[
-  {
-    "id": "ponytest",
-    "title": "Test",
-    "description": "Test.",
-    "duration": "2h 19min",
-    "director": "Sam Raimi",
-    "year": 2002,
-    "genre": "Action",
-    "rating": 7.3
-  },
-  {
-    "id": "batman",
-    "title": "Batman",
-    "description": "A crime-fighting superhero film based on the DC Comics character.",
-    "duration": "2h 32min",
-    "director": "Tim Burton",
-    "year": 1989,
-    "genre": "Action",
-    "rating": 7.5
-  }
-]
+{
+  "movies": [
+    {
+      "title": "Movie Title 1",
+      "cover": "https://move.starttiw.org/covers/ponytest/pony.png"
+    },
+    {
+      "title": "Movie Title 2",
+      "cover": "https://move.starttiw.org/covers/movie2.jpg"
+    }
+  ]
+}
